@@ -1,0 +1,53 @@
+---
+title: "Glosario"
+---
+
+::: {style="text-align: center; color: orange;"}
+TRABALLANDO NELA!
+:::
+
+O galego, a lingua propia e vehicular da militancia, presenta unha serie de palabras pouco empregadas fóra da militancia debido á influencia do castelán na sociedade galega. Nesta sección expóñense co obxectivo de familiarizar ás integrantes coa xerga propia. Tamén se presentan palabras que, malia ser de uso común, tenden a ser empregadas incorrectamente.
+
+As palabras atópanse ordeadas dende o A até o Z e no caso de existir unha entrada nalgún dicionario de galego (tanto ILG-RAG como AGAL, priorizando o [Dicionario RAG](https://academia.gal/inicio){target="_blank"} e o [Dicionário Estraviz](https://www.estraviz.org/){target="_blank"}, respectivamente) a ligazón á mesma:
+
+-   [**Acta**]{#def-acta} \[[ILG-RAG](https://academia.gal/dicionario/-/termo/acta){target="_blank"} \| [AGAL](https://estraviz.org/ata){target="_blank"}\]: Documento no que se recollen os acordos e o acontecementos relevantes, como intervencións que aporten ao debate, nunha [asemblea](#def-asemblea). As actas son mandadas antes da próxima asemblea para que a militancia teña a oportunidade de lelas e comprobar se o escrito é certo. Ao comezo de cada asemblea vótase a favor ou en contra do borrador de acta da asemblea anterior e, de ser aprovada, pasa a ser oficial.
+
+-   [**Afiliada**]{#def-afiliada}: Confróntese con militante.
+
+-   [**Asemblea**]{#def-asemblea}:
+
+-   [**Colada**]{#def-colada}:
+
+-   [**Cartaz**]{#def-cartaz}:
+
+-   [**Concentración**]{#def-concentracion}: Confróntese con manifestación.
+
+-   [**Desafiuzar**]{#def-desafiuzar}:
+
+-   [**Estraza**]{#def-estraza}:
+
+-   [**Estreleira**]{#def-estreleira}: Bandeira galega cunha estrela vermella de cinco puntas no centro, símbolo do nacionalismo galego de esquerdas.
+
+-   [**Faixa**]{#def-faixa}:
+
+-   [**Manifestación**]{#def-manifestación}: Confróntese con concentración.
+
+-   [**Militante**]{#def-militante}: Confróntese con afiliada.
+
+-   [**Nacionalismo**]{#def-nacionalismo}: Confróntese con soberanismo e independentismo.
+
+-   [**Simpatizante**]{#def-simpatizante}:
+
+-   [**Soberanismo**]{#def-soberanismo}: Confróntese con nacionalismo e independentismo.
+
+-   [**Voandeira**]{#def-voandeira}:
+
+## Traballo pendente:
+
+-   Rematar as definicións.
+
+-   Engadir as ligazóns de cada palabra ás entradas nos dicionarios.
+
+-   Engadir imaxes para que se visualice ben cada concepto.
+
+-   Engadir separador por letra (A, B, ..., Z).

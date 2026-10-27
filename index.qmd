@@ -1,0 +1,15 @@
+---
+title: "Prefacio"
+unnumbered: true
+---
+
+::: {style="text-align: center; color: orange;"}
+TRABALLANDO NELA!
+:::
+
+Esta é a Guía da militancia...
+
+De xeito xeral estarei falando de maneira obxectiva, mais cando incluia unha opinión engadirei un indicador de opinión (COMPLETAR).
+
+## Traballo pendente
+-   Indicar xeito de contactar co autor e razóns polas que é interesante contactar (grallas, suxestións, correccións, etc.). Indicar que ao contactar e ser aprobada a corrección tes a opción de dar o teu nome/alcume ou manterte anónimo, mais aparecerá que non é unha idea propia do autor principal.

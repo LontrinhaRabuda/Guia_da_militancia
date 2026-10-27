@@ -1,0 +1,64 @@
+---
+title: "Organizacións de referencia"
+---
+
+::: {style="text-align: center; color: orange;"}
+TRABALLANDO NELA!
+:::
+
+Política: BNG (Nacional), UPG (Nacional), Movemento Arredista (Nacional) Alicerce (Nacional)
+
+Mocidades políticas: Galiza Nova (Nacional), UMG (Nacional), Isca! (Nacional)
+
+Sindicalismo: CIG (Nacional)
+
+Ecoloxismo: ADEGA (Nacional), Grupo Naturalista Hábitat (Nacional), Plataforma Ulloa viva (Nacional), Proxecto Ríos (Nacional)
+
+Feminismo: Marcha Mundial das Mulleres (Nacional), Mulleres en Acción (A Barbanza)
+
+Lingua: A MESA (Nacional), Queremos galego! (Nacional), AGAL (Nacional), ILG-RAG (Nacional), Aquí tamén se fala (A Coruña)
+
+Movemento estudantil: Erguer (Nacional)
+
+Exercicio físico: Ximnasio popular KRN (A Coruña)
+
+Centros sociais (CS): CS Gomes Gaioso (A Coruña)
+
+Asociacións culturais (AC): AC Alexandre Bóveda (A Coruña), AC Altofalante (Ribeira), AC Artábria (Ferrol?), AC Reino da Galiza (A Coruña?), Espazo Cultural Manuel María, AC Malas Herbas (Ribeira)
+
+Investigación: InvestiGal (Nacional)
+
+Prensa: Nós diario (Nacional), Praza (Nacional), O Salto (Nacional), Galizalivre (Nacional)
+
+Sanidade: SOS sanidade pública (Nacional)
+
+Ciencia: GCiencia (Nacional)
+
+LGBT+: Avante LGBT+ (Nacional), Arelas (Nacional)
+
+Plataforma social: Vía Galega (Nacional)
+
+Internacionalismo: Mar de Lumes (Nacional), Galiza pola Paz (Nacional), Global Sumud Galiza (Nacional), Galiza por Palestina (Nacional)
+
+Fundacións: Galiza Sempre (Nacional)
+
+Educación: Semente (Nacional)
+
+Vivenda: Plataforma galega Vivenda Xa! (Nacional), Plataforma polo Dereito á Vivenda (A Coruña)
+
+Simboloxía: Projeto Estreleira (Nacional)
+
+Racismo: SOS Racismo Galicia (Nacional)
+
+Editoriais: Tempo Galiza (Nacional)
+
+Dereito: EsCULcA (Nacional)
+
+
+## Traballo pendente:
+- Engadir unha introdución á sección
+- Deseño da sección
+- Dar unha breve descrición de cada organización
+- Engadir ligazóns ás páxinas web das organizacións
+- Engadir imaxes e logos das organizacións
+- Engadir máis organizacións de referencia

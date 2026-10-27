@@ -1,0 +1,17 @@
+# RStudio
+.Rproj.user
+.Rhistory
+.Rdata
+.Ruserdata
+
+# Quarto - Archivos temporales y caché
+/.quarto/
+**/*.quarto_ipynb
+
+# Quarto - Salida de compilación (libros / webs)
+_book/
+/_freeze/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

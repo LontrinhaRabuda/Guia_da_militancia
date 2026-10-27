@@ -1,0 +1,53 @@
+project:
+  type: book
+
+lang: gl
+date-format: "D [de] MMMM [de] YYYY"
+
+book:
+  title: "Guía da militancia"
+  subtitle: "v. 0.0.1: O comezo."
+  author: "Samu Saavedra"
+  date: last-modified
+  language: gl
+  chapters:
+    - index.qmd
+    - xustificacion_autor.qmd
+    - glosario.qmd
+    - organizacions_referencia.qmd
+    - referencias.qmd
+    - traballo_pendente.qmd
+
+bibliography: referencias.bib
+
+language:
+  title-block-author-single: "Autor:"
+  title-block-published: "Actualizado o:"
+  toc-title-document: "Índice"
+  toc-title-website: "Índice"
+
+format:
+  html:
+    theme:
+      dark: darkly
+      light: flatly
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    smooth-scroll: true
+  
+  pdf:
+    documentclass: scrbook
+    pdf-engine: xelatex
+    classoption:
+      - paper=a4
+      - fontsize=11pt
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    geometry:
+      - top=30mm
+      - bottom=30mm
+      - inner=30mm
+      - outer=25mm
+
