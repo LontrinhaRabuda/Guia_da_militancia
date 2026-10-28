@@ -1,15 +1,26 @@
----
-title: "Prefacio"
-unnumbered: true
----
+# Prefacio {.unnumbered #sec-prefacio}
 
 ::: {style="text-align: center; color: orange;"}
 TRABALLANDO NELA!
 :::
 
-Esta é a Guía da militancia...
+A **Guía da militancia** pretende ser un texto divulgativo de fácil lectura e consulta no que se aborden diferentes cuestións que atinxen ás militantes novas, ou non tanto! Polo tanto, non é un documento teórico no que se describan cuestións cun enfoque idealista ou utópico senón que busca completar un oco existente na literatura e formación, a practicidade. Precisamente a idea xorde da necesidade. Así e todo non se resta calidade á obra xa que, malia non abordar conceptos densos da teoría, o obxectivo non é ese.
 
-De xeito xeral estarei falando de maneira obxectiva, mais cando incluia unha opinión engadirei un indicador de opinión (COMPLETAR).
+De forma xenérica a redacción será obxectiva, mais cando se incluia unha opinión ou algo non probado, indicarase explicitamente. Isto permite distiguir facilmente o coñecemento fundamentado e obxectivo das valoracións subxectivas.
+
+Esta documentación presenta unha serie de bases ideolóxicas que se desenvolven na sección @sec-antes_de_ler, sobre o que se rexe todo o escrito. Unha das ideas núcleo é que *o coñecemento non debe ter cancelas*. Motivando a idea de manter este documento vivo malia que as autoras iniciais puideran abandoar o proxecto.
+
+Finalmente, gustaríame pedirche un favor moi importante e estreitamente relacionado co anterior parágrafo. Cando atopes grallas, teñas suxestións, correccións, etc. contacta comigo vía correo electrónico, RR. SS., mensaxe ao número de teléfono, en persoa,... En definitiva, o método que máis cómodo che resulte para mellorarmos entre todas esta guía. Por protexer, o pouco que sexa posible, a miña privacidade achégoche tres métodos de contacto:
+
+- *Correo electrónico*: samu.saavedra@proton.me
+
+- *Instagram*: \@hanaaidra
+
+- *X* (anteriormente *Twitter*): \@SamuSaavedraGZ
+
+Agradecería unha estrutura definida indicando: quen es, cal é a mellora e se che gustaría que engadira o teu nome/alcume ou se prefires manterte no anonimato na sección final de @sec-agradecementos (supoñendo que a suxestión sexa aprobada. Se fora unha sección enteira engadiríaseche como autora desa sección).
 
 ## Traballo pendente
--   Indicar xeito de contactar co autor e razóns polas que é interesante contactar (grallas, suxestións, correccións, etc.). Indicar que ao contactar e ser aprobada a corrección tes a opción de dar o teu nome/alcume ou manterte anónimo, mais aparecerá que non é unha idea propia do autor principal.
+- Crear o *indicador de opinión*, sería bo que fora unha imaxe que preceda a un texto (por exemplo, un circuliño cunha boca falando).
+
+- Engadir iconas aos métodos de contacto

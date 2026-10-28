@@ -1,0 +1,5 @@
+# Agradecementos {#sec-agradecementos}
+
+::: {style="text-align: center; color: orange;"}
+Pendente de contribucións.
+:::

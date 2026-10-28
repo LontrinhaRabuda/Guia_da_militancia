@@ -1,7 +1,4 @@
----
-title: "Referencias"
-unnumbered: true
----
+# Referencias {.unnumbered #sec-referencias}
 
 ::: {style="text-align: center; color: red;"}
 PENDENTE!

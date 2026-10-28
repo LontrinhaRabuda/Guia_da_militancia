@@ -6,15 +6,17 @@ date-format: "D [de] MMMM [de] YYYY"
 
 book:
   title: "Guía da militancia"
-  subtitle: "v. 0.0.1: O comezo."
+  subtitle: "v. 0.1.0: O comezo."
   author: "Samu Saavedra"
   date: last-modified
   language: gl
   chapters:
     - index.qmd
-    - xustificacion_autor.qmd
+    - antes_de_ler.qmd
     - glosario.qmd
-    - organizacions_referencia.qmd
+    - recomendacions_bibliograficas.qmd
+    - organizacions_de_referencia.qmd
+    - agradecementos.qmd
     - referencias.qmd
     - traballo_pendente.qmd
 
@@ -25,6 +27,9 @@ language:
   title-block-published: "Actualizado o:"
   toc-title-document: "Índice"
   toc-title-website: "Índice"
+  crossref-chap-title: "Sección"
+  crossref-chap-prefix: "Sección"
+  crossref-sec-prefix: "Sección"
 
 format:
   html:
@@ -50,4 +55,3 @@ format:
       - bottom=30mm
       - inner=30mm
       - outer=25mm
-

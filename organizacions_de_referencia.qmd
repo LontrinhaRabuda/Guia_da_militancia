@@ -1,12 +1,10 @@
----
-title: "Organizacións de referencia"
----
+# Organizacións de referencia {#sec-organizacions_de_referencia}
 
 ::: {style="text-align: center; color: orange;"}
 TRABALLANDO NELA!
 :::
 
-Política: BNG (Nacional), UPG (Nacional), Movemento Arredista (Nacional) Alicerce (Nacional)
+Política: BNG (Nacional), UPG (Nacional), Movemento Arredista (Nacional), Alicerce (Nacional)
 
 Mocidades políticas: Galiza Nova (Nacional), UMG (Nacional), Isca! (Nacional)
 
@@ -20,7 +18,7 @@ Lingua: A MESA (Nacional), Queremos galego! (Nacional), AGAL (Nacional), ILG-RAG
 
 Movemento estudantil: Erguer (Nacional)
 
-Exercicio físico: Ximnasio popular KRN (A Coruña)
+Actividade física: Ximnasio popular KRN (A Coruña)
 
 Centros sociais (CS): CS Gomes Gaioso (A Coruña)
 

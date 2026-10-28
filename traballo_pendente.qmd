@@ -1,11 +1,21 @@
----
-title: "Traballo pendente"
----
+# Traballo pendente {.unnumbered #sec-traballo_pendente}
 
-Esta sección é provisional, o obxectivo é enumerar cuestións relevantes na formación da militancia e ilas engadindo pouco a pouco.
+Esta sección é estritamente provisional e busca ser un lugar onde organizar o traballo até a v. 1.0.0. O obxectivo é enumerar cuestións relevantes na formación da militancia e ilas engadindo pouco a pouco.
 
--   Rematar antes de ler
+## Traballo actual
+
 -   Rematar o glosario
--   Rematar o index (prefacio)
 -   Engadir as referencias
+- Crear Recomendacións bibliográficas
 -   Rematar o organizacións de referencia
+- Buscar repeticións de palabras e mellorar o léxico.
+- Buscar xeito de compilar o documento nun .pdf
+
+## Traballo futuro
+
+- Engadir sección de lingua
+- Engadir sección de historia
+- Engadir sección de feminismo
+- Engadir sección de internacionalismo
+- Engadir sección de ecoloxismo
+- etc.

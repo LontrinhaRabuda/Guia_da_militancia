@@ -1,6 +1,4 @@
----
-title: "Antes de ler"
----
+# Antes de ler {#sec-antes_de_ler}
 
 ::: {style="text-align: center; color: orange;"}
 TRABALLANDO NELA!
@@ -24,8 +22,15 @@ Estas só son algunhas das motivacións que me levaron a participar activamente 
 
 Parte do proceso da militancia é a formación, o meu obxectivo nesta guía. Busco axudar, dende a miña experiencia e formación, a xente que quere comezar a militancia, que xa milita nalgún outro colectivo ou mesmo que ten interese nalgunha cuestión que aborde a guía a formarse e a ter unha visión máis ampla do que significa ser militante.
 
-Unha enorme parte do proceso de aprender é darse conta de que moito do que asumimos e consideramos "normal" ou correcto non o é. Partindo do feito de que vivimos nun sistema capitalista e cisheteropatriarcal, é natural asumir que imos ter, en menor ou maior medida, influencia polo mesmo tanto á hora de relacionarnos como de entender a vida. Unha cuestión que asumimos como básica é o uso do masculino xenérico á hora de comunicarnos cun grupo malia ser integrado principalmente por mulleres. Co obxectivo de aportar na loita, emprego o feminino xenérico. Pode parecer un acto sen importancia, mais é unha declaración de intencións cun calado, cando menos, interesante nas persoas que non están afeitas a escoitalo.
+Unha enorme parte do proceso de aprender é darse conta de que moito do que asumimos e consideramos "normal" ou correcto non o é. Partindo do feito de que vivimos nun sistema capitalista e cisheteropatriarcal, é natural asumir que imos ter, en menor ou maior medida, influencia polo mesmo tanto á hora de relacionarnos como de entender a vida. 
+
+Unha cuestión que asumimos como básica é o uso do masculino xenérico á hora de comunicarnos, malia que un grupo estea integrado principalmente por mulleres. Co obxectivo de aportar na loita, emprego o feminino xenérico. Quizais parece un acto sen importancia, mais é unha declaración de intencións cun calado, cando menos, interesante nas persoas que non están afeitas a escoitalo e que pode conseguir que alguén discurra na cuestión. No referente ao uso do galego existen dúas normas principais [PENDENTE LIGALO A UN ARTIGO]: a norma ILG-RAG (oficial) e a AGAL (reintegrado). No tocante ao tema, emprego á hora da escritura a norma oficial, mais caso coa filosofía do reintegracionismo polo que ides ver que, en ocasións, fago alusión ao mesmo ou emprego palabras que non se atopan no DRAG (Dicionario da Real Academia Galega).
 
 A busca da verdade debe ser sempre unha máxima á que debemos aspirar malia vir nesgadas "da casa". Que non che desmotive! Cando te formas estás un paso máis próxima á, anteriormente mencionada, verdade. Es consciente dunha serie de problemáticas que che afectan e queres dar un paso á fronte na dirección correcta. Alégrome pola túa valía e agardo contribuír positivamente en ti.
 
 Existen outras máximas que sigo como é que o coñecemento non debe ter cancelas. Isto motiva á escolla dunha licencia moi concreta neste documento: CC BY-SA 4.0. Isto quere dicir que podes facer o que queiras con este documento: modificalo, empregalo con fins comerciais, etc. mais debes ter en conta dúas cuestións: *BY*, sempre hai que recoñecer a autoría orixinal e indicar onde se fixeron modificacións, e *SA*, ao crear unha obra derivada existe unha obriga de distribuíla baixo a mesma licenza. A xustificación da primeira é atopar as fontes das que se obtén a información e poder contactar, dun xeito sinxelo, á autora orixinal (as redes de contacto atópanse no Prefacio [ENGADIR LIGAZÓN]) e da segunda é que preservar o carácter aberto desta documentación.
+
+## Traballo pendente
+- Organizar mellor a información e pulir o texto.
+
+- Engadir referencias bibliográficas e ligazóns ás fontes de información.
