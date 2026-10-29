@@ -4,10 +4,10 @@ Esta sección é estritamente provisional e busca ser un lugar onde organizar o 
 
 ## Traballo actual
 
--   Rematar o glosario
--   Engadir as referencias
-- Crear Recomendacións bibliográficas
--   Rematar o organizacións de referencia
+- Rematar o glosario
+- Engadir as referencias
+- Completar Recomendacións bibliográficas
+- Rematar o organizacións de referencia
 - Buscar repeticións de palabras e mellorar o léxico.
 - Buscar xeito de compilar o documento nun .pdf
 
@@ -16,6 +16,6 @@ Esta sección é estritamente provisional e busca ser un lugar onde organizar o 
 - Engadir sección de lingua
 - Engadir sección de historia
 - Engadir sección de feminismo
+- Engadir sección de diversidade de xénero e sexual
 - Engadir sección de internacionalismo
 - Engadir sección de ecoloxismo
-- etc.

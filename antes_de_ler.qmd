@@ -4,7 +4,9 @@
 TRABALLANDO NELA!
 :::
 
-Ola! Son Samu, o autor principal e, até o de agora, único desta guía. Nada sorprendente tendo en conta o estado prematuro no que se acha. Considero necesarias unha serie de aclaracións antes da lectura desta guía para entender por que existe, por que está escrita do xeito no que está e que obxectivos busca acadar.
+Ola! Son Samu, o autor principal e, até o de agora, único desta guía. Nada sorprendente tendo en conta o estado prematuro no que se acha. Considero necesarias unha serie de aclaracións antes da lectura para entender por que existe, por que está escrita do xeito no que está e que obxectivos busca acadar. Esta sección pretende ser un resumo do meu xeito de pensar e das motivacións que subxacen o escrito.
+
+**Aclaración**: malia que a sección presenta ese nome tan chamativo, non é preciso lela para entender o resto da guía. Secasí estarías perdendo os matices que, quizais, che resultan de interese adquirir. A decisión recae en ti!
 
 Levo anos participando activamente nos movementos sociais e, máis concretamente, no nacionalismo galego. Milito en diversas organizacións e colaboro con outras tantas. A militancia floreceu no momento no que tomei conciencia das cadeas que nos atan a diferentes formas de discriminación e opresións. Por enumerar unhas cantas:
 
@@ -29,6 +31,8 @@ Unha cuestión que asumimos como básica é o uso do masculino xenérico á hora
 A busca da verdade debe ser sempre unha máxima á que debemos aspirar malia vir nesgadas "da casa". Que non che desmotive! Cando te formas estás un paso máis próxima á, anteriormente mencionada, verdade. Es consciente dunha serie de problemáticas que che afectan e queres dar un paso á fronte na dirección correcta. Alégrome pola túa valía e agardo contribuír positivamente en ti.
 
 Existen outras máximas que sigo como é que o coñecemento non debe ter cancelas. Isto motiva á escolla dunha licencia moi concreta neste documento: CC BY-SA 4.0. Isto quere dicir que podes facer o que queiras con este documento: modificalo, empregalo con fins comerciais, etc. mais debes ter en conta dúas cuestións: *BY*, sempre hai que recoñecer a autoría orixinal e indicar onde se fixeron modificacións, e *SA*, ao crear unha obra derivada existe unha obriga de distribuíla baixo a mesma licenza. A xustificación da primeira é atopar as fontes das que se obtén a información e poder contactar, dun xeito sinxelo, á autora orixinal (as redes de contacto atópanse no Prefacio [ENGADIR LIGAZÓN]) e da segunda é que preservar o carácter aberto desta documentación.
+
+Unha cuestión relevante no presente é o uso que se fai da intelixencia artificial xerativa (IAxen). É unha ferramenta que cómpre entender en profundidade para facer un bo uso dela e, polo tanto, non estou en contra do seu uso. Porén, o uso non debe ser xeralizado e reemprazar o traballo das autoras. O documento está completamente elaborado por unha persoa, pero empregouse a IAxen para indicar posibles grallas ou na implementación dunha correcta visualización do documento (cuestións relacionadas con programación). Este uso é completamente lícito e, ademais, un dos xeitos nos que se recomenda usala con seguridade por parte de especialistas [Citar paper onde se poida contrastar o dito].
 
 ## Traballo pendente
 - Organizar mellor a información e pulir o texto.
