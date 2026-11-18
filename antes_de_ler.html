@@ -42,7 +42,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b626d73c4c936ccc3cb08be7d45d1df6.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -383,8 +382,9 @@ ul.task-list li input[type="checkbox"] {
 <p>Unha cuestión que asumimos como básica é o uso do masculino xenérico á hora de comunicarnos, malia que un grupo estea integrado principalmente por mulleres. Co obxectivo de aportar na loita, emprego o feminino xenérico. Quizais parece un acto sen importancia, mais é unha declaración de intencións cun calado, cando menos, interesante nas persoas que non están afeitas a escoitalo e que pode conseguir que alguén discurra na cuestión. No referente ao uso do galego existen dúas normas principais [PENDENTE LIGALO A UN ARTIGO]: a norma ILG-RAG (oficial) e a AGAL (reintegrado). No tocante ao tema, emprego á hora da escritura a norma oficial, mais caso coa filosofía do reintegracionismo polo que ides ver que, en ocasións, fago alusión ao mesmo ou emprego palabras que non se atopan no DRAG (Dicionario da Real Academia Galega).</p>
 <p>A busca da verdade debe ser sempre unha máxima á que debemos aspirar malia vir nesgadas “da casa”. Que non che desmotive! Cando te formas estás un paso máis próxima á, anteriormente mencionada, verdade. Es consciente dunha serie de problemáticas que che afectan e queres dar un paso á fronte na dirección correcta. Alégrome pola túa valía e agardo contribuír positivamente en ti.</p>
 <p>Existen outras máximas que sigo como é que o coñecemento non debe ter cancelas. Isto motiva á escolla dunha licencia moi concreta neste documento: CC BY-SA 4.0. Isto quere dicir que podes facer o que queiras con este documento: modificalo, empregalo con fins comerciais, etc. mais debes ter en conta dúas cuestións: <em>BY</em>, sempre hai que recoñecer a autoría orixinal e indicar onde se fixeron modificacións, e <em>SA</em>, ao crear unha obra derivada existe unha obriga de distribuíla baixo a mesma licenza. A xustificación da primeira é atopar as fontes das que se obtén a información e poder contactar, dun xeito sinxelo, á autora orixinal (as redes de contacto atópanse no Prefacio [ENGADIR LIGAZÓN]) e da segunda é que preservar o carácter aberto desta documentación.</p>
+<p>Unha cuestión relevante no presente é o uso que se fai da intelixencia artificial xerativa (IAxen). É unha ferramenta que cómpre entender en profundidade para facer un bo uso dela e, polo tanto, non estou en contra do seu uso. Porén, o uso non debe ser xeralizado e reemprazar o traballo das autoras. O documento está completamente elaborado por unha persoa, pero empregouse a IAxen para indicar posibles grallas ou na implementación dunha correcta visualización do documento (cuestións relacionadas con programación). Este uso é completamente lícito e, ademais, un dos xeitos nos que se recomenda usala con seguridade por parte de especialistas [Citar paper onde se poida contrastar o dito].</p>
 <section id="traballo-pendente" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="traballo-pendente"><span class="header-section-number">1.1</span> Traballo pendente</h2>
+<h2 data-number="1.1" data-anchor-id="traballo-pendente"><span class="header-section-number">1.1</span> Traballo pendente</h2>
 <ul>
 <li><p>Organizar mellor a información e pulir o texto.</p></li>
 <li><p>Engadir referencias bibliográficas e ligazóns ás fontes de información.</p></li>
@@ -409,13 +409,6 @@ ul.task-list li input[type="checkbox"] {
       window.document.body.appendChild(a);
     }
     setColorSchemeToggle(hasAlternateSentinel())
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
