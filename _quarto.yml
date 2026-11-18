@@ -6,7 +6,7 @@ date-format: "D [de] MMMM [de] YYYY"
 
 book:
   title: "Guía da militancia"
-  subtitle: "v. 0.1.1: O comezo."
+  subtitle: "v. 0.1.2: O comezo."
   author: "Samu Saavedra"
   date: last-modified
   language: gl
@@ -15,7 +15,7 @@ book:
     - antes_de_ler.qmd
     - glosario.qmd
     - recomendacions_bibliograficas.qmd
-    - organizacions_de_referencia.qmd
+    - espazos_sociais_e_organizacions_de_referencia.qmd
     - agradecementos.qmd
     - referencias.qmd
     - traballo_pendente.qmd

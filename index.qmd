@@ -10,7 +10,7 @@ De forma xenérica a redacción será obxectiva, mais cando se incluia unha opin
 
 Esta documentación presenta unha serie de bases ideolóxicas que se desenvolven na sección @sec-antes_de_ler, sobre o que se rexe todo o escrito. Unha das ideas núcleo é que *o coñecemento non debe ter cancelas*. Motivando a idea de manter este documento vivo malia que as autoras iniciais puideran abandoar o proxecto.
 
-Finalmente, gustaríame pedirche un favor moi importante e estreitamente relacionado co anterior parágrafo. Cando atopes grallas, teñas suxestións, correccións, etc. contacta comigo vía correo electrónico, RR. SS., mensaxe ao número de teléfono, en persoa,... En definitiva, o método que máis cómodo che resulte para mellorarmos entre todas esta guía. Por protexer, o pouco que sexa posible, a miña privacidade achégoche tres métodos de contacto:
+Finalmente, gustaríame pedirche un favor moi importante e estreitamente relacionado co anterior parágrafo. Cando atopes grallas, teñas suxestións, correccións, etc. contacta comigo vía correo electrónico, RR. SS., mensaxe ao número de teléfono, en persoa,... En definitiva, o método que máis cómodo che resulte para mellorarmos entre todas esta guía. Por protexer, o pouco que sexa posible, a miña privacidade achégoche tres [métodos de contacto]{#metodos-contacto}:
 
 - *Correo electrónico*: samu.saavedra@proton.me
 

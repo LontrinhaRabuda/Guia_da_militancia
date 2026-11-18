@@ -1,13 +1,57 @@
 # Recomendacións bibliográficas {#sec-recomendacions_bibliograficas}
 
-::: {style="text-align: center; color: red;"}
-PENDENTE!
+::: {style="text-align: center; color: orange;"}
+TRABALLANDO NELA!
 :::
 
-Nacionalismo galego: Sempre en Galiza - Castelao (1944), A estrela que nos guía - Freixeiro-Mato (2023?)
+Un moi bo recurso para formarse é a lectura de obras de valor. Cando comezamos na militancia aparecen recorrentemente unha serie de dúbidas cunha orixe común; a ignorancia fronte á inmensidade do coñecemento humano. Algunhas das dúbidas máis frecuentes, coas que probablemente coincidas, son:
 
-Historia galega:
+- Como podo mellorar a miña formación nun determinado tema?
 
-Política:
-- Teoría marxista (botarlle un ollo a marxists.org): O manifesto comunista - Marx e Engels (18XX)
-  
+- É útil un determinado libro ou é mellor centrarse noutros?
+
+- Hai centos de obras, en que orde debo lelas?
+
+- Cómpre que lea todo o que me recomendan?
+
+A resposta non é única e diferentes persoas podemos enfocala dende diferentes prismas, mais aquí vai unha serie de propostas para iniciar a lectura das principais fontes de información e documentos fundamentais á hora de militar. 
+
+## Literatura nacional {#literatura_nacional}
+
+### Economía {.unnumbered #literatura_nacional-economia}
+
+- **O atraso económico da Galiza** - Beiras Torrado, X. M. H. (1972) [Análise]: [\[COMPLETAR\]]{style="color: red;"}
+
+
+
+### Historia da lingua galega {.unnumbered #literatura_nacional-historia_da_lingua_galega}
+
+- **A estrela que nos guía.** *O galego entre un pasado brillante e un incerto futuro* - Freixeiro Mato, X. R. (2023) [Introdutoria]: [\[COMPLETAR\]]{style="color: red;"}
+
+
+
+### Nacionalismo galego {.unnumbered #literatura_nacional-nacionalismo_galego}
+
+- **Sempre en Galiza** - Rodríguez Castelao, A. D. M. (1944) [Obra de referencia]: É o libro fundacional do [nacionalismo galego](#literatura_nacional-nacionalismo_galego) contemporáneo, escrito como ensaio. Publicouse na Arxentina mentres Castelao se atopaba exiliado por mor da ditadura franquista. Presenta un limiar, *Adro*, de 14 capítulos que escribiu mentres estaba en Badaxoz (Badajoz). Posteriormente escribiu catro libros: o primeiro escrito durante a guerra civil española entre 1937 e 1938; o segundo escrito en 1940 en Nova Iorque (New York) e rematado na viaxe cara a Buenos Aires [\[COMPLETAR\]]{style="color: red;"}
+
+
+
+## Literatura internacional {#literatura_internacional}
+
+### Teoría marxista {.unnumbered #literatura_internacional-teoria_marxista}
+
+- **O manifesto comunista** - Marx, K. H. & Engels, F. (1848) [Introdutoria]: [\[COMPLETAR\]]{style="color: red;"}
+
+&nbsp;
+
+
+
+*Nota: É resaltable lembrar que poden existir referencias que non se atopen aquí por descoñecemento da autoría ou por omisión involuntaria. Para darlle solución, agradécense suxerencias para engadir (estas poden ser enviadas aos diferentes [métodos de contacto](index.qmd#metodos-contacto)).*
+
+
+
+
+
+## Traballo pendente:
+- Engadir descricións
+- Engadir ligazóns ás obras

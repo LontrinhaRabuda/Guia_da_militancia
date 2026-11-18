@@ -17,10 +17,10 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 ### Índice alfabético {.unnumbered #indice-alfabetico style="margin-top: 2em;"}
 
 ::: {style="text-align: center; font-size: 1.15em; letter-spacing: 0.15em; margin: 1em 0 3.5em 0; padding: 0.8em 0.6em; border-top: 1px solid #555; border-bottom: 1px solid #555;"}
-[**A**](#letra-a) · [B]{style="opacity: 0.4;"} · [**C**](#letra-c) · [**D**](#letra-d) · [**E**](#letra-e) · [**F**](#letra-f) · [**G**](#letra-g) · [H]{style="opacity: 0.4;"} · [**I**](#letra-i) · [L]{style="opacity: 0.4;"} · [**M**](#letra-m) · [**N**](#letra-n) · [Ñ]{style="opacity: 0.4;"} · [**O**](#letra-o) · [**P**](#letra-p) · [Q]{style="opacity: 0.4;"} · [**R**](#letra-r) · [**S**](#letra-s) · [T]{style="opacity: 0.4;"} · [U]{style="opacity: 0.4;"} · [**V**](#letra-v) · [X]{style="opacity: 0.4;"} · [Z]{style="opacity: 0.4;"}
+[**A**](#letra_a) · [B]{style="opacity: 0.4;"} · [**C**](#letra_c) · [**D**](#letra_d) · [**E**](#letra_e) · [**F**](#letra_f) · [**G**](#letra_g) · [H]{style="opacity: 0.4;"} · [**I**](#letra_i) · [L]{style="opacity: 0.4;"} · [**M**](#letra_m) · [**N**](#letra_n) · [Ñ]{style="opacity: 0.4;"} · [**O**](#letra_o) · [**P**](#letra_p) · [Q]{style="opacity: 0.4;"} · [**R**](#letra_r) · [**S**](#letra_s) · [T]{style="opacity: 0.4;"} · [U]{style="opacity: 0.4;"} · [**V**](#letra_v) · [X]{style="opacity: 0.4;"} · [Z]{style="opacity: 0.4;"}
 :::
 
-## A {.unnumbered #letra-a}
+## A {.unnumbered #letra_a}
 
 - [**Acta**]{#def-acta}; *Acta* | *Ata* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/acta){target="_blank"} \| [AGAL](https://estraviz.org/ata){target="_blank"}\]:
 <br> Documento no que se recollen os acordos e o acontecementos relevantes, como intervencións que aporten ao debate, nunha [asemblea](#def-asemblea). As actas son mandadas antes da próxima asemblea para que a militancia teña a oportunidade de lelas e comprobar se o escrito é certo. Ao comezo de cada asemblea vótase a favor ou en contra do borrador de acta da asemblea anterior e, de ser aprovada, pasa a ser oficial.
@@ -38,7 +38,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## C {.unnumbered #letra-c}
+## C {.unnumbered #letra_c}
 
 - [**Cartaz**]{#def-cartaz}; *Cartel* | *Cartaz* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/cartel){target="_blank"} \| [AGAL](https://estraviz.org/cartaz){target="_blank"}\]:
 <br> Superficie de papel de tamaño variable con fin propagandístico e de difusión dunha acción, problemática, acto, etc.
@@ -71,17 +71,15 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 <br> Folla metálica con forma variable. Presenta unha imaxe na face e un imperdible no envés para unilo a un tecido.
 <!-- Pendente comprobar se hai unha mellor palabra que *chapa* -->
 
-[\[ENGADIR FOTO\]]{style="color: orange;"}
+![(Autoría propia)](imaxes/glosario/cracha.jpg){fig-align="center" width="75%"}
 
 - [**Crebafolgas**]{#def-crebafolgas}; *Crebafolgas* | *Fura-greve*  \[[ILG-RAG](https://academia.gal/dicionario/-/termo/crebafolgas){target="_blank"} \| [AGAL](https://estraviz.org/fura-greve){target="_blank"}\]:
 <br> Persoa que nunha folga, que lle afecte, asiste voluntariamente ao seu posto de traballo.
 <br> Tamén coñecido como *quebrafolgas* ou *esquirol*.
 
-[\[ENGADIR FOTO\]]{style="color: orange;"}
-
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## D {.unnumbered #letra-d}
+## D {.unnumbered #letra_d}
 
 - [**Desafiuzar**]{#def-desafiuzar}; *Desafiuzar* | *Despejar* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/desafiuzar){target="_blank"} \| [AGAL](https://estraviz.org/despejar){target="_blank"}\]:
 <br> Acción de botar a unha persoa ou grupo de persoas dunha vivenda por indicación dun xurista (xuíz?). Execútase polo corpo policial cando existe resistencia por parte da(s) persoa(s) a quen quere(n) botar.
@@ -90,7 +88,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## E {.unnumbered #letra-e}
+## E {.unnumbered #letra_e}
 
 - [**Escrache**]{#def-escrache}; *---* | *---* \[[ILG-RAG](https://academia.gal/){target="_blank"} \| [AGAL](https://estraviz.org/){target="_blank"}\]:
 <br> [Mobilización](#def-mobilizacion) na contra dunha persoa concreta, xeralmente un político ou cargo público.
@@ -120,7 +118,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## F {.unnumbered #letra-f}
+## F {.unnumbered #letra_f}
 
 - [**Faixa**]{#def-faixa}; *Pancarta* | *Pancarta* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/pancarta){target="_blank"} \| [AGAL](https://estraviz.org/pancarta){target="_blank"}\]:
 <br> Superficie rectangular na que se debuxa ou se escribe unha mensaxe reivindicativa. O material acostuma a ser plástico e pódese debuxar e escribir sobre el coa axuda de rotuladores. Existen casos nos que as faixas son creadas por empresas. Adoita ser pendurada nunha superficie vertical ou carregada por militantes nunha [mobilización](#def-mobilizacion). 
@@ -139,7 +137,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## G {.unnumbered #letra-g}
+## G {.unnumbered #letra_g}
 
 - [**Grupo de orde**]{#def-grupo_de_orde}; *---* | *---*  \[[ILG-RAG](https://academia.gal/){target="_blank"} \| [AGAL](https://estraviz.org/){target="_blank"}\]:
 <br> Conxunto de persoas que, nunha [mobilización](#def-mobilizacion), se encargan de manter o correcto desenvolvemento evitando incidentes tales como agresións, provocacións, etc. Adoitan levar un chaleco dunha cor fosforescente e unha identificación da [organización](#def-organizacion) que representan para seren identificados con facilidade.
@@ -150,7 +148,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## I {.unnumbered #letra-i}
+## I {.unnumbered #letra_i}
 
 - [**Independentismo**]{#def-independentismo}; *Independentismo* | *Independentismo* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/independentismo){target="_blank"} \| [AGAL](https://estraviz.org/independentismo){target="_blank"}\]:
 <br> Movemento sociopolítico que busca a escisión política dun territorio fronte a outro, en moitos casos dunha nación fronte ao Estado ao que pertencen para, deste xeito, constituír un Estado de seu. Tamén se coñece como secesionismo.
@@ -159,7 +157,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## M {.unnumbered #letra-m}
+## M {.unnumbered #letra_m}
 
 - [**Manifestación**]{#def-manifestacion}; *Manifestación* | *Manifestaçom* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/manifestación){target="_blank"} \| [AGAL](https://estraviz.org/manifestación){target="_blank"}\]:
 <br> [Mobilización](#def-mobilizacion) de persoas dinámica, comézase nun punto A e, após un percorrido, vólvese ao punto A ou vaise a un punto B. Adóitase ir nunha marcha constante e agrupadas por organizacións, cada unha detrás dunha [faixa](#def-faixa). Teñen unha duración bastante diversa, dependendo da gravidade da problemática e da lonxitude do traxecto, polo que adoitan durar dunha hora a tres. O manifesto lese ao se deter a manifestación, tratando de formar unha fronte ou un círculo.
@@ -175,16 +173,14 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 <br> Subconxunto de [afiliadas](#def-afiliada) que toman un papel activo na organización social. Dito doutro xeito, toda militante é afiliada, pero non toda afiliada é militante. Preséntanse a [mobilizacións](#def-mobilizacion), participan en [asembleas](#def-asemblea), executan [coladas](#def-colada), etc.
 <br> Confróntese con [afiliada](#def-afiliada).
 
-[\[ENGADIR FOTO\]]{style="color: orange;"}
-
 - [**Mobilización**]{#def-mobilizacion}; *Mobilización* | *Mobilizaçom* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/mobilización){target="_blank"} \| [AGAL](https://estraviz.org/mobilización){target="_blank"}\]:
 <br> Xuntanza de persoas cun obxectivo reivindicativo, axitativo e de visibilización dunha problemática, polo xeral respecto a unha mala xestión ou unha emerxencia. No desenvolvemento bérranse diferentes consignas que evidencien a problemática. Rematan coa lectura dun manifesto expoñendo os feitos e exixindo solucións a quen sexa responsable. Adoitan ser convocadas por unha ou varias organizacións con tempo previo abondo para maximizar a participación da sociedade. Precisamente, poden ser secundadas por múltiples organizacións (aínda non sendo quen as convoque). As participantes non teñen por que pertencer a ningún colectivo, poden ser persoas independentes aos distintos movementos sociais. Exemplos de mobilización son as [concentracións](#def-concentracion) e as [manifestacións](#def-manifestacion).
 
-[\[ENGADIR FOTO\]]{style="color: orange;"}
+![(Autoría propia)](imaxes/glosario/mobilizacion.jpg){fig-align="center" width="75%"}
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## N {.unnumbered #letra-n}
+## N {.unnumbered #letra_n}
 
 - [**Nación**]{#def-nacion}; *Nación* | *Naçom* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/nación){target="_blank"} \| [AGAL](https://estraviz.org/nacion){target="_blank"}\]:
 <br> Colectivo constituído por persoas que comparten unha serie de características comúns como historia, lingua, cultura, economía, idiosincrasia, etc.
@@ -199,7 +195,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## O {.unnumbered #letra-o}
+## O {.unnumbered #letra_o}
 
 - [**Orde do día**]{#def-orde_do_dia}; *Orde do día* | *Ordem do dia* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/orde){target="_blank"} \| [AGAL](https://estraviz.org/orde){target="_blank"}\]:
 <br> Conxunto de cuestións ordeadas que van ser tratadas nunha [asemblea](#def-asemblea). Adoita comezar coa *aprobación, se procede, da anterior [acta](#def-acta)* e remata cun punto de *varios*, onde se poden tratar cuestións que non se reflectiran na orde do día, mais sen toma de decisións.
@@ -213,7 +209,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## P {.unnumbered #letra-p}
+## P {.unnumbered #letra_p}
 
 - [**Palestra**]{#def-palestra}; *Palestra* | *Palestra* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/palestra){target="_blank"} \| [AGAL](https://estraviz.org/palestra){target="_blank"}\]:
 <br> Acto formativo no que se expoñen unha serie de ideas dunha temática concreta por parte dunha ou varias persoas (coñecidas como palestrante) formadas no tema cun público presente. Ao rematar a intervención das palestrantes é común abrir unha rolda de preguntas na que participa o público para aclarar conceptos ou dúbidas.
@@ -243,7 +239,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## R {.unnumbered #letra-r}
+## R {.unnumbered #letra_r}
 
 - [**Reparto**]{#def-reparto}; *Reparto* | *Reparto* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/repartir){target="_blank"} \| [AGAL](https://estraviz.org/repartir){target="_blank"}\]:
 <br> Acción de distribuír material propagandístico, tipicamente [voandeiras](#def-voandeira). Adoita realizarse por varias persoas en rúas, prazas ou localizacións ben concorridas para maximizar a difusión. Moitas veces efectúase antes dun acto preto do lugar onde se vai celebrar para que a xente da contorna se entere e poidan asistir (esta acción adoita ter mellor resultado que facelo días antes; canto máis próximo á data mellor). Non sempre ten que ser a publicitación dun acto.
@@ -252,12 +248,10 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## S {.unnumbered #letra-s}
+## S {.unnumbered #letra_s}
 
 - [**Simpatizante**]{#def-simpatizante}; *Simpatizante* | *Simpatizante* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/simpatizante){target="_blank"} \| [AGAL](https://estraviz.org/simpatizante){target="_blank"}\]:
 <br> Persoa que apoia unha organización ou causa, mais non forma parte dela. En moitos casos solicitan información e presentan interese en coñecer en que participa a organización.
-
-[\[ENGADIR FOTO\]]{style="color: orange;"}
 
 - [**Soberanismo**]{#def-soberanismo}; *Soberanismo* | *Soberanismo* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/soberano){target="_blank"} \| [AGAL](https://estraviz.org/soberano){target="_blank"}\]:
 <br> Movemento sociopolítico no que se exixe a soberania, é dicir, o poder de decisión e autoridade máxima nun territorio. O obxectivo é que a cidadanía teña a capacidade de decidir que vai ser co seu futuro político, econímico e social, non estando subordinadas a un poder xurídico externo.
@@ -267,7 +261,7 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 
 [↑ Volver ao índice alfabético](#indice-alfabetico){style="font-size: 0.85em;"}
 
-## V {.unnumbered #letra-v}
+## V {.unnumbered #letra_v}
 
 - [**Voandeira**]{#def-voandeira}; *Panfleto* | *Panfleto* \[[ILG-RAG](https://academia.gal/dicionario/-/termo/panfleto){target="_blank"} \| [AGAL](https://estraviz.org/panfleto){target="_blank"}\]: 
 <br> Documento impreso, en moitas ocasións dobrado unha (díptico) ou dúas (tríptico) veces, no que se expón brevemente un tema ou se anuncia un evento. Adoitan ser repartidas por [militantes](#def-militante) en espazos públicos nos denominados [repartos](#def-reparto). Tamén se poden deixar en, por exemplo, mesas de espazos públicos para que a xente poida tomalos a vontade.
@@ -280,3 +274,19 @@ Promovendo unha mellor navegación dentro do glosario, engádese un índice alfa
 ## Traballo pendente:
 - Engadir imaxes que ilustren cada concepto. Para as faltantes, consultar coa militancia para pedir fotos.
 
+<!-- Pedir fotos:
+- Asemblea: GN
+- Colada: GN
+- Desafiuzar: GN
+- Escrache: Internet?
+- Estraza: GN
+- Foliada: Internet?
+- Grupo de orde: BNG (preguntar se teñen algunha)
+- Independentismo: Internet?
+- Nacionalismo: BNG (Galiza Nación)
+- Organización: Internet
+- Pasaaulas: Erguer?
+- Piquete: CIG
+- Reparto: GN?
+- Soberanismo: Internet?
+-->
